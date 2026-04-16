@@ -1,51 +1,99 @@
-# Mateus_Henrique
-Readme Mateus
-<h1 align="center">Olá, eu sou Mateus Henrique Rodrigues 👋</h1>
+# 👨‍💻 Mateus Henrique Rodrigues
 
-<p align="center">
-  <i>"Iniciando minha jornada como desenvolvedor, sou apaixonado por tecnologia e movido pela curiosidade. Estou sempre buscando aprender e evoluir, com o objetivo de me tornar um profissional capaz de criar soluções úteis e criativas."</i>
-</p>
+🎯 Desenvolvedor Python | Automação | Web | Dados  
 
----
-
-### 🚀 Minhas Skills
-
-<p align="center">
-  <!-- Linguagens de programação -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  <img src="https://img.icons8.com/ios-filled/60/4479A1/sql.png" alt="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
-</p>
-
-<p align="center">
-  <!-- Ferramentas e tecnologias -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="60"/>
-</p>
+📍 Santa Isabel - SP  
+📧 mateushenriqu313@gmail.com  
+🔗 GitHub: https://github.com/mateus1907  
 
 ---
 
-### 🛠️ Tecnologias que uso e estou aprendendo
+## 🚀 Sobre mim
 
-- 💻 **Python** para desenvolvimento de aplicações  
-- 🗄️ **MySQL / SQL** para gerenciamento e análise de dados  
-- 🌐 **Flask** para desenvolvimento web e APIs  
-- 🔧 **Git & GitHub** para versionamento e colaboração em projetos  
+Sou desenvolvedor Python com foco em criação de soluções práticas utilizando automação de processos, desenvolvimento web e análise de dados.
 
----
+Tenho experiência com projetos reais envolvendo:
+- Automação de tarefas (RPA)
+- Web scraping
+- Aplicações web interativas
+- Integração com APIs e banco de dados
 
-### 📫 Vamos nos conectar!
-
-- 💼 [LinkedIn](https://www.linkedin.com/)
-- 📧 mateushenriqu313@gmail.com
+Busco constantemente evoluir minhas habilidades e desenvolver soluções eficientes que gerem impacto real.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHenriqueRodrigues&layout=compact&theme=github_dark" />
-</p>
+## 🛠️ Tecnologias e Ferramentas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusHenriqueRodrigues&show_icons=true&theme=github_dark" />
-</p>
+💻 Linguagem:
+- Python
+
+⚙️ Bibliotecas e Frameworks:
+- Pandas
+- Selenium
+- BeautifulSoup
+- Streamlit
+- Flask / Django
+
+🌐 Web:
+- HTML
+- CSS
+- JavaScript
+
+🗄️ Banco de Dados:
+- SQL
+
+🔗 Outros:
+- APIs REST
+- JSON
+- Git & GitHub
+- Excel
+
+---
+
+## 📂 Projetos em Destaque
+
+### 🔹 Automação de Processos
+Automação de tarefas repetitivas com Python, incluindo:
+- Preenchimento automático de formulários
+- Integração com sistemas web
+- Execução de rotinas automatizadas
+
+### 🔹 Aplicações Web com Streamlit
+- Sistemas interativos com interface amigável
+- Autenticação de usuários
+- Manipulação de dados em tempo real
+
+### 🔹 Web Scraping
+- Coleta de dados de sites
+- Uso de Selenium e BeautifulSoup
+- Tratamento de dados com Pandas
+
+### 🔹 Integração com APIs
+- Consumo de APIs REST
+- Manipulação de JSON
+- Integração com bancos de dados
+
+---
+
+## 🎓 Formação
+
+📌 Python Impressionador – Hashtag Treinamentos (118h)  
+📌 Tecnologia da Informação – SENAI  
+📌 Excel Básico – SENAI  
+
+---
+
+## 📈 Objetivo
+
+Atuar como Desenvolvedor Python Júnior, contribuindo com soluções eficientes em automação, desenvolvimento web e análise de dados.
+
+---
+
+## 📬 Contato
+
+📧 mateushenriqu313@gmail.com  
+📍 Santa Isabel - SP  
+
+---
+
+⭐ Se curtir meus projetos, não esquece de deixar uma estrela!
