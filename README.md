@@ -92,7 +92,7 @@ Atuar como Desenvolvedor Python Júnior, contribuindo com soluções eficientes 
 ## 📬 Contato
 
 📧 mateushenriqu313@gmail.com  
-📍 Santa Isabel - SP  
+📧 (11) 91688-8401  
 
 ---
 
